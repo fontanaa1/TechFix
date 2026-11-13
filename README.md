@@ -12,6 +12,7 @@ Aplicativo demonstrativo em React + Capacitor para a atividade 15 — Recursos d
 - Interface responsiva com identidade visual TechFix.
 
 **Dados demonstrativos:** OS TF-220, troca de display, valor ilustrativo de R$ 349,90. Ajuste esses dados em `src/App.jsx` se necessário.
+
 ![Notificação](docs/images/not.png)
 
 ## Como executar no computador
