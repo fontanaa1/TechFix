@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { LocalNotifications } from '@capacitor/local-notifications';
 
 const OS = {
