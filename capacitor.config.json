@@ -1,0 +1,6 @@
+{
+  "appId": "com.techfix.assistencia",
+  "appName": "TechFix Assistência",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
